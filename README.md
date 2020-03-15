@@ -1,1 +1,1 @@
-# Curso de Java Scritp Hcode
+# Curso de Java Script Hcode
